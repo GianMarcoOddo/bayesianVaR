@@ -23,3 +23,11 @@ FAANG stocks are known for their large market capitalizations, exceptional growt
 
 Bayesian statistics offers a probabilistic approach to inference, incorporating prior knowledge along with new data to update the probability of outcomes. This technique is particularly useful in the estimation of the variance-covariance matrix, providing more robust and informed risk assessments for the FAANG portfolio.
 
+---
+## Contact
+
+- Email: gian.marco.oddo@usi.ch
+- LinkedIn: https://www.linkedin.com/in/gian-marco-oddo-8a6b4b207/
+- GitHub: https://github.com/GianMarcoOddo
+> Feel free to reach out for any questions or further clarification on this code.
+---
